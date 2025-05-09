@@ -168,6 +168,7 @@ ol {
   min-height: 34px;
   border: 1px solid #fff;
   font-size: 18px;
+  font-weight: 700;
   font-family: "Fira Sans Condensed", sans-serif;
   cursor: pointer;
   background-color: transparent;
